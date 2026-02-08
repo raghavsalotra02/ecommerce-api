@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "iPhone 15",
-      "price": 79999,
+      "price": "79999",
       "rating": 4.5,
       "image": "https://via.placeholder.com/300",
       "description": "Latest Apple iPhone with A17 chip"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "AirPods Pro",
-      "price": 24999,
+      "price": "24999",
       "rating": 4.2,
       "image": "https://via.placeholder.com/300",
       "description": "Noise cancelling earbuds"
