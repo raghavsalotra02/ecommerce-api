@@ -165,3 +165,82 @@
         "Dimensity 9300",
         "5000 mAh",
         "50 MP Zeiss"
+      ],
+      "reviews": [
+        { "user": "Pooja", "rating": 5, "comment": "Camera lovers must buy" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Nothing Phone (2)",
+      "price": 44999,
+      "rating": 4.0,
+      "description": "Unique transparent design with clean UI.",
+      "brand": "Nothing",
+      "category": "Smartphones",
+      "discountPercentage": 14,
+      "stock": 28,
+      "thumbnail": "https://example.com/nothing2.png",
+      "images": [
+        "https://example.com/nothing2-1.png"
+      ],
+      "specifications": [
+        "6.7 inch OLED",
+        "Snapdragon 8+ Gen 1",
+        "4700 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Arjun", "rating": 4, "comment": "Design is unique" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Motorola Edge 50 Pro",
+      "price": 36999,
+      "rating": 4.1,
+      "description": "Fast charging and near-stock Android experience.",
+      "brand": "Motorola",
+      "category": "Smartphones",
+      "discountPercentage": 16,
+      "stock": 33,
+      "thumbnail": "https://example.com/edge50pro.png",
+      "images": [
+        "https://example.com/edge50pro-1.png"
+      ],
+      "specifications": [
+        "6.7 inch pOLED",
+        "Snapdragon 7 Gen 3",
+        "4500 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Deepak", "rating": 4, "comment": "Clean Android experience" }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Redmi Note 13 Pro+",
+      "price": 31999,
+      "rating": 4.2,
+      "description": "Budget phone with premium features.",
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "discountPercentage": 22,
+      "stock": 50,
+      "thumbnail": "https://example.com/redminote13.png",
+      "images": [
+        "https://example.com/redminote13-1.png"
+      ],
+      "specifications": [
+        "6.67 inch AMOLED",
+        "Dimensity 7200",
+        "5000 mAh",
+        "200 MP"
+      ],
+      "reviews": [
+        { "user": "Vikas", "rating": 5, "comment": "Best camera in this range" }
+      ]
+    }
+  ]
+}
