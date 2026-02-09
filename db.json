@@ -13,8 +13,7 @@
       "thumbnail": "https://example.com/iphone15.png",
       "images": [
         "https://example.com/iphone15-1.png",
-        "https://example.com/iphone15-2.png",
-        "https://example.com/iphone15-3.png"
+        "https://example.com/iphone15-2.png"
       ],
       "specifications": [
         "6.1 inch OLED",
@@ -23,17 +22,146 @@
         "48 MP"
       ],
       "reviews": [
-        {
-          "user": "Rahul",
-          "rating": 5,
-          "comment": "Amazing phone!"
-        },
-        {
-          "user": "Amit",
-          "rating": 4,
-          "comment": "Very good but costly"
-        }
+        { "user": "Rahul", "rating": 5, "comment": "Amazing phone!" },
+        { "user": "Amit", "rating": 4, "comment": "Very good but costly" }
       ]
-    }
-  ]
-}
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S24",
+      "price": 74999,
+      "rating": 4.4,
+      "description": "Samsung Galaxy S24 with powerful performance and AMOLED display.",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "discountPercentage": 12,
+      "stock": 30,
+      "thumbnail": "https://example.com/galaxys24.png",
+      "images": [
+        "https://example.com/galaxys24-1.png"
+      ],
+      "specifications": [
+        "6.2 inch AMOLED",
+        "Exynos 2400",
+        "4000 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Neha", "rating": 5, "comment": "Display is awesome" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "OnePlus 12",
+      "price": 69999,
+      "rating": 4.6,
+      "description": "OnePlus flagship phone with fast charging and smooth UI.",
+      "brand": "OnePlus",
+      "category": "Smartphones",
+      "discountPercentage": 15,
+      "stock": 18,
+      "thumbnail": "https://example.com/oneplus12.png",
+      "images": [
+        "https://example.com/oneplus12-1.png"
+      ],
+      "specifications": [
+        "6.7 inch AMOLED",
+        "Snapdragon 8 Gen 3",
+        "5400 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Kunal", "rating": 5, "comment": "Super smooth performance" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Google Pixel 8",
+      "price": 71999,
+      "rating": 4.3,
+      "description": "Pixel 8 with best-in-class camera and clean Android experience.",
+      "brand": "Google",
+      "category": "Smartphones",
+      "discountPercentage": 8,
+      "stock": 20,
+      "thumbnail": "https://example.com/pixel8.png",
+      "images": [
+        "https://example.com/pixel8-1.png"
+      ],
+      "specifications": [
+        "6.2 inch OLED",
+        "Google Tensor G3",
+        "4575 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Suman", "rating": 4, "comment": "Camera is best" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "iQOO 12",
+      "price": 52999,
+      "rating": 4.2,
+      "description": "High-performance gaming smartphone at competitive price.",
+      "brand": "iQOO",
+      "category": "Smartphones",
+      "discountPercentage": 18,
+      "stock": 35,
+      "thumbnail": "https://example.com/iqoo12.png",
+      "images": [
+        "https://example.com/iqoo12-1.png"
+      ],
+      "specifications": [
+        "6.78 inch AMOLED",
+        "Snapdragon 8 Gen 3",
+        "5000 mAh",
+        "50 MP"
+      ],
+      "reviews": [
+        { "user": "Rohit", "rating": 4, "comment": "Great for gaming" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Realme GT 6",
+      "price": 34999,
+      "rating": 4.1,
+      "description": "Affordable flagship with fast charging.",
+      "brand": "Realme",
+      "category": "Smartphones",
+      "discountPercentage": 20,
+      "stock": 40,
+      "thumbnail": "https://example.com/realmegt6.png",
+      "images": [
+        "https://example.com/realmegt6-1.png"
+      ],
+      "specifications": [
+        "6.74 inch AMOLED",
+        "Snapdragon 8s Gen 3",
+        "5500 mAh",
+        "64 MP"
+      ],
+      "reviews": [
+        { "user": "Aakash", "rating": 4, "comment": "Value for money" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Vivo X100",
+      "price": 63999,
+      "rating": 4.4,
+      "description": "Camera-focused smartphone with premium design.",
+      "brand": "Vivo",
+      "category": "Smartphones",
+      "discountPercentage": 10,
+      "stock": 22,
+      "thumbnail": "https://example.com/vivox100.png",
+      "images": [
+        "https://example.com/vivox100-1.png"
+      ],
+      "specifications": [
+        "6.78 inch AMOLED",
+        "Dimensity 9300",
+        "5000 mAh",
+        "50 MP Zeiss"
