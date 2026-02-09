@@ -16,12 +16,12 @@
         "https://example.com/iphone15-2.png",
         "https://example.com/iphone15-3.png"
       ],
-      "specifications": {
-        "display": "6.1 inch OLED",
-        "processor": "A16 Bionic",
-        "battery": "3279 mAh",
-        "camera": "48 MP"
-      },
+      "specifications": [
+        "6.1 inch OLED",
+        "A16 Bionic",
+        "3279 mAh",
+        "48 MP"
+      ],
       "reviews": [
         {
           "user": "Rahul",
